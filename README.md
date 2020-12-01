@@ -1,6 +1,6 @@
 TO RUN THE PROJECT:
 
-git clone https://server.ivfuture.eu/students/onlinesh_shop.git
+git clone 
 
 cd onlinesh_shop/ && yarn install && cd client/ && yarn install
 
